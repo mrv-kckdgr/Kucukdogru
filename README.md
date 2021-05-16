@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/merve-k%c3%bc%c3%a7%c3%bckdo%c4%9fru-00055b148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/merve-k%c3%bc%c3%a7%c3%bckdo%c4%9fru-00055b148/" height="30" width="40" /></a>
-<a href="https://medium.com/@mervekucukdogru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@mervekucukdogru" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/merve-kucukdogru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/merve-kucukdogru/" height="30" width="40" /></a>
+<a href="https://mervekucukdogru.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="https://mervekucukdogru.medium.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
